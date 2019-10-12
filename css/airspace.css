@@ -621,11 +621,15 @@ color: #545454 !important;
   margin-top: 0;
   text-transform: capitalize;
 }
-#global-header .block p {
-  font-size: 16px;
-  font-weight: 300;
-  letter-spacing: 1px;
-  word-spacing: 3px;
+#contact-form .block p {
+      font-size: 15px;
+      line-height: 40px;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 300;
+      letter-spacing: 3px;
+      color: #7B7B7B;
+      text-align: justify;
+  }
 }
 /*--
 	portfolio-work Start
