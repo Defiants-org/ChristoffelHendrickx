@@ -91,7 +91,7 @@ header .navbar-default .navbar-nav li a {
 }
 header .navbar-default .navbar-nav a:hover {
   color: #fff;
-  background-color: #888;
+  background-color: #cddadeff;
   padding: 10px 26px;
 }
 
@@ -125,7 +125,7 @@ header .navbar-default .navbar-nav a:hover {
   opacity: 0.45;
 }
 #slider .block {
-  color: #888;
+  color: #605c5c;
 }
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
@@ -140,7 +140,7 @@ header .navbar-default .navbar-nav a:hover {
   font-size: 15px;
   line-height: 40px;
   font-family: 'Roboto', sans-serif;
-  font-weight: 500;
+  font-weight: 300;
   letter-spacing: 3px;
 }
 
@@ -1008,7 +1008,7 @@ color: #545454 !important;
 	footer Start
 --*/
 footer {
-  background: #ecf7f2;
+  background: #cddadeff;
   text-align: center;
   padding-top: 48px;
   padding-bottom: 55px;
@@ -1026,7 +1026,7 @@ footer p {
   color: #919191;
 }
 footer a {
-  color: #595959;
+  color: #fff;
 }
 footer .footer-manu {
   padding-bottom: 25px;
